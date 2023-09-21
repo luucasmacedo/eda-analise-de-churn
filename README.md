@@ -10,15 +10,15 @@ Qual a importancia de fazermos uma análise exploratória quando realizamos um p
 
 Realizar uma análise de taxa de cancelamento de clientes é importante para empresas:
 
-1. Retenção de Clientes: Ajuda a manter clientes
+1. **Retenção de Clientes:** Ajuda a manter clientes
 2.    
-3. Economia de Custos: Evita perdas financeiras
+3. **Economia de Custos:** Evita perdas financeiras
 4. 
-5. Feedback Útil: Fornece informações valiosas
+5. **Feedback Útil:** Fornece informações valiosas
 6.  
-7. Melhoria Contínua: Estimula melhorias
+7. **Melhoria Contínua:** Estimula melhorias
 8. 
-9. Marketing Eficiente: Melhora estratégias  
+9. **Marketing Eficiente:** Melhora estratégias  
 
 ## Descrição do Projeto
 
